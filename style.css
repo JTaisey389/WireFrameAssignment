@@ -49,7 +49,7 @@ main {
 }
 
 section.hero {
-  margin: 1rem auto;
+  margin: 16px auto;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -88,49 +88,49 @@ section.hero {
 section.Inline-Three img {
   width: 50%;
   float: left;
-  padding-right: 1rem;
+  padding-right: 16px;
 }
 
 
 section.Inline-Three div {
   width: 50%;
   float: right;
-  padding-left: 1rem;
+  padding-left: 16px;
 }
 section.two-item banner{
   width: 50%;
   float: left;
-  padding-right: 1rem;
+  padding-right: 16px;
 }
 section.two-item h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 32px;
+  margin-bottom: 16px;
 }
 
 section.two-item p {
-  font-size: 1rem;
-  line-height: 1.25rem;
-  margin-bottom: 1rem;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 16px;
 }
 
 section.two-item div {
   width: 50%;
   float: right;
-  padding-left: 1rem;
+  padding-left: 16px;
 }
 
 .button {
   display: block;
-  width: 8rem;
+  width: 128px;
   text-align: center;
   background-color: gray;
-  padding: 1.25rem 3rem;
-  border-radius: 1rem;
+  padding: 20px 48px;
+  border-radius: 16px;
   text-decoration: none;
 }
 
 footer p {
   text-align: center;
   width: 100%;
-  margin: 5rem 0;
+  margin: 80px 0px;
 }
